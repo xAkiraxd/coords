@@ -2,6 +2,7 @@
        
 ![xQcdUCb](https://user-images.githubusercontent.com/65227544/165864399-b3e3ff57-5c3c-4675-b8de-4636e46b8786.png)
 
+**Command:** coords
 
 **Framework:** Standalone
 
