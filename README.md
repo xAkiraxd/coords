@@ -6,7 +6,7 @@
 
 **Command:** coords
 
-**Code:** Open Source
+**Code:** Open Source - 2
 
 
 **Note:** This script has been rewritten to work with any framework, but if you have any problems, contact me.
